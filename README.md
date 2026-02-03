@@ -45,6 +45,10 @@
 
 ---
 
+##  Demo
+
+https://github.com/Menna152/AI-Resume-Analyzer-Mistral/releases/tag/v1.0
+
 ##  Installation & Usage
 
 1. **Install Dependencies:**
